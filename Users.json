@@ -1,0 +1,95 @@
+[
+  {
+    "Username": "gio",
+    "Password": "B2FCA9AF31AAE6953124439DF5BC300C1EF11FB8BE938AEB570767C5B6BFDAAF",
+    "Accounts": []
+  },
+  {
+    "Username": "jj",
+    "Password": "DE3BBD0FD7945E42581643B18CDF28DD3ED61D9C3D541B7B016081564B65A3F3",
+    "Accounts": []
+  },
+  {
+    "Username": "levani",
+    "Password": "A79DF4BDB1CCE88168ABEC26AFDA04FC4581F4BF4E24F409E889CBBBF0B97FCB",
+    "Accounts": [
+      {
+        "Website": "jhj",
+        "Username": "g",
+        "Password": "fAOCgMSC0UrGwC6wM4DZ4Q==",
+        "Comment": "g"
+      },
+      {
+        "Website": "g",
+        "Username": "g",
+        "Password": "ckYohXPzxIZudUaxng\u002BnUA==",
+        "Comment": "g"
+      },
+      {
+        "Website": "fff",
+        "Username": "ff",
+        "Password": "dQzukAbgMkYJpV\u002B9MruqKg==",
+        "Comment": "g"
+      },
+      {
+        "Website": "f",
+        "Username": "f",
+        "Password": "oRmpK0KLgYmYabUv2G39tg==",
+        "Comment": "f"
+      }
+    ]
+  },
+  {
+    "Username": "bacho",
+    "Password": "A79DF4BDB1CCE88168ABEC26AFDA04FC4581F4BF4E24F409E889CBBBF0B97FCB",
+    "Accounts": [
+      {
+        "Website": "facebook",
+        "Username": "bachobacho",
+        "Password": "mweoau5G0\u002BQEnrG7JuFeznJHr2xpEKQD\u002BrW3SZ7HU60=",
+        "Comment": "My facebook account"
+      },
+      {
+        "Website": "google",
+        "Username": "bachog",
+        "Password": "PXPggvnWcVyHI5h36/vx8xcj9tU31t8pALr6XDxjnFw=",
+        "Comment": "hey"
+      },
+      {
+        "Website": "dfg",
+        "Username": "dfg",
+        "Password": "JjauIlg9V9EtxvzE0WFEfQ==",
+        "Comment": "fg"
+      }
+    ]
+  },
+  {
+    "Username": "kaxa",
+    "Password": "764C1139D34A7982179F2A3F015DF77FD27B667EE7193B05AFB2160EE4AE1C15",
+    "Accounts": [
+      {
+        "Website": "rr",
+        "Username": "rr",
+        "Password": "Vnf7Ve6nVjpsCONbX7gN1g==",
+        "Comment": "rr"
+      }
+    ]
+  },
+  {
+    "Username": "tika",
+    "Password": "825DEE2C01997EA9EDA6583A867EF09971F11AEC8750694E5D3273C6700D292A",
+    "Accounts": []
+  },
+  {
+    "Username": "jumberi",
+    "Password": "6272E46689654CA565B25D6C6A00B33817055DDAA53B27A568E0FC630E01EBC3",
+    "Accounts": [
+      {
+        "Website": "facebook",
+        "Username": "jumberjumber",
+        "Password": "NhMdGWqKtEe0g/R6RFMYhooe0/e9yvI5qoddjpEDqtU=",
+        "Comment": "es mevar jumberi"
+      }
+    ]
+  }
+]
