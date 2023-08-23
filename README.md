@@ -1,4 +1,5 @@
-Password Saver App
+# Password Saver App
+
 The Password Saver App is a secure and user-friendly application developed in C# using Windows Forms. It provides a convenient solution for users to store and manage their account information, including website names, usernames, and passwords. The app utilizes a JSON file as the database, ensuring data persistence and easy access.
 
 Features
